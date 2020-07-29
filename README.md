@@ -1,2 +1,0 @@
-# lru
-algoritmo lru
